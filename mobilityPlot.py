@@ -7,6 +7,8 @@ Created on Sat Oct 29 13:49:16 2022
 """
 
 import os 
+import pandas as pd
+
 os.getcwd()
 os.chdir(r'/Users/chiaraciscato/Desktop/mobilityitaly')
 
